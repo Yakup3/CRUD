@@ -1,8 +1,8 @@
 # CRUD
 
 ## Description
-This is a Create, Read, Update and Delete operation using Node.js.\
-Data is stored in the MongoDB database and fetched from there.\
+This is Create, Read, Update and Delete operation developed using Node.js.\
+Data is stored in the MongoDB database and fetched from there.
 
 ## Used Tools
 - Node.js
